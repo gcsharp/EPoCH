@@ -6,3 +6,13 @@ output: html_document
 ![](docs/logo.png){width="246"}
 
 # Using in your own research
+
+The EPoCH study was led by Gemma Sharp at the University of Exeter. Dr Kayleigh Easey and Dr Ahmed Elhakeem were post-docs working on the project at the University of Bristol.
+
+You can download all the results from EPoCH for further exploration and use in your own research. Just go to [EPoCH Explorer](https://gcsharp.shinyapps.io/EPoCH/).
+
+If you use results from EPoCH in your own research, please cite our paper:
+
+*Sharp G.C, Easey K.E., Elhakeem A., et al. XXX. XXX. XXX*
+
+If you would like to contact the EPoCH research team, please email Gemma Sharp at [g.c.sharp\@exeter.ac.uk](mailto:g.c.sharp@exeter.ac.uk){.email}.

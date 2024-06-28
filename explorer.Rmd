@@ -1,8 +1,12 @@
 ---
-title: 'EPoCH Explorer'
+title: ''
 output: html_document
 ---
 
-![](docs/logo.png){width="246"}
+![](logo.png){width="246"}
 
 # EPoCH Explorer
+
+EPoCH explorer is a web app providing interactive and customisable data visualisations, interpretations, and downloads to disseminate results from the EPoCH study. It is a useful tool for research and it can also serve as an aid for teaching about causal inference and triangulation of evidence garnered from observational data.
+
+Click here to access [EPoCH Explorer](https://gcsharp.shinyapps.io/EPoCH/).

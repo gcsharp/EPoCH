@@ -1,8 +1,28 @@
 ---
-title: 'Welcome'
+title: ''
 output: html_document
 ---
 
-![](docs/logo.png){width="246"}
+![](logo.png){width="246"}
 
-# Welcome
+# Welcome to the EPoCH study
+
+The Exploring Prenatal influences On Child Health (EPoCH) study is an epidemiological research study that takes a systematic approach to explore associations between prenatal parental health behaviours and multiple child health outcomes.
+
+The study uses data from four longitudinal cohort studies:
+
+-   The Avon Longitudinal Study of Parents and Children (ALSPAC)
+
+-   Born in Bradford (BiB)
+
+-   The Norwegian Mother, Father and Child study (MoBA)
+
+-   Millennium Cohort Study (MCS)
+
+Regression analyses were performed within each cohort, and then, where possible, results were meta-analysed to produce average effect estimates across the cohorts.
+
+EPoCH explored associations between parental health behaviours (reflecting different types and timings of exposure to parental **smoking**, **alcohol** consumption, **caffeine** consumption), and child health outcomes (reflecting different traits relating to **body size and composition**, **psychosocial** and **cognitive** factors, **immunology**, **blood pressure**, and serum **biomarkers**, measured at several ages).
+
+Where possible, health behaviours from both parents are studied. Associations between parental **socioeconomic position** and child health outcomes are also presented for comparison.
+
+In some cohorts, we were also able to explore associations between child health outcomes and polygenic risk scores for parental health behaviours.
