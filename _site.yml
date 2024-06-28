@@ -1,0 +1,17 @@
+name: "EPoCH: Exploring Prenatal Influences On Childhood Health"
+navbar:
+  title: "EPoCH: Exploring Prenatal Influences On Childhood Health"
+  left:
+    - text: "Welcome"
+      href: index.html
+    - text: "Methods"
+      href: methods.html
+    - text: "EPoCH Explorer"
+      href: explorer.html
+    - text: "Using in your own research"
+      href: citing.html
+
+output_dir: "docs"
+output:
+  html_document:
+    theme: lumen

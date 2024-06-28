@@ -1,0 +1,8 @@
+---
+title: 'EPoCH Explorer'
+output: html_document
+---
+
+![](docs/logo.png){width="246"}
+
+# EPoCH Explorer

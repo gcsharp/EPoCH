@@ -1,0 +1,8 @@
+---
+title: 'Using in your own research'
+output: html_document
+---
+
+![](docs/logo.png){width="246"}
+
+# Using in your own research

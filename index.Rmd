@@ -1,0 +1,8 @@
+---
+title: 'Welcome'
+output: html_document
+---
+
+![](docs/logo.png){width="246"}
+
+# Welcome
