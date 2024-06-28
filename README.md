@@ -1,3 +1,3 @@
 # EPoCH_website
 
-https://gcsharp.github.io/EPoCH/
+https://gcsharp.github.io/EPoCH_website/
